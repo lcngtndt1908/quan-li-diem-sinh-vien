@@ -1,2 +1,1 @@
-hahhaa
-hha
+print("HEllo word")
